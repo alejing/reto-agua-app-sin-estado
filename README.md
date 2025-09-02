@@ -41,7 +41,7 @@ Esta es una versión **modularizada y sin estado** de la aplicación RetoAguaApp
 ## 🛠️ Cómo ejecutar el proyecto
 
 ```bash
-git clone git remote add origin https://github.com/alejing/reto-agua-app-sin-estado.git
+git clone https://github.com/alejing/reto-agua-app-sin-estado.git
 cd reto-agua-app-sin-estado
 ```
 
