@@ -23,9 +23,14 @@ Esta es una versión **modularizada y sin estado** de la aplicación RetoAguaApp
 
 ---
 
-## 📷 Capturas sugeridas
+## 📷 Vistas principales de la app
 
-> *(Agrega aquí tus propias capturas si deseas)*
+<p align="center">
+  <img src="imagenes/pantalla1.png" width="200"/>
+  <img src="imagenes/pantalla2.png" width="200"/>
+  <img src="imagenes/pantalla3.png" width="200"/>
+  <img src="imagenes/pantalla4.png" width="200"/>
+</p>
 
 ```bash
 💧 Pantalla principal:
